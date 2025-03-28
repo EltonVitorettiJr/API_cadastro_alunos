@@ -1,0 +1,17 @@
+{
+  "name": "api_cadastro_alunos",
+  "version": "1.0.0",
+  "description": "API para cadastro de alunos e cursos.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
